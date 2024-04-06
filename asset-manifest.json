@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gvreddy/static/css/main.e6c13ad2.css",
+    "main.js": "/gvreddy/static/js/main.7abf06bf.js",
+    "static/js/453.e63e374f.chunk.js": "/gvreddy/static/js/453.e63e374f.chunk.js",
+    "index.html": "/gvreddy/index.html",
+    "main.e6c13ad2.css.map": "/gvreddy/static/css/main.e6c13ad2.css.map",
+    "main.7abf06bf.js.map": "/gvreddy/static/js/main.7abf06bf.js.map",
+    "453.e63e374f.chunk.js.map": "/gvreddy/static/js/453.e63e374f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7abf06bf.js"
+  ]
+}
